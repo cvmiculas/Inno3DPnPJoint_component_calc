@@ -14,6 +14,7 @@ Thank you for using this notebook. We hope it will be helpful for your research.
 
 ## DOI
 Cite the Inno3DPnPJoint_component_calc notebook using:
+[![DOI](https://zenodo.org/badge/633002290.svg)](https://zenodo.org/badge/latestdoi/633002290)
 
 ## License
 [MIT License](LICENSE)
