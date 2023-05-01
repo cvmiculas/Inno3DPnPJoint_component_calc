@@ -1,4 +1,4 @@
-# Tube Components Initial Stiffness Calculator for Inno3DPnPJoint Element
+# Tube Components Initial Stiffness Calculator for Inno3DPnPJoint Element from OpenSees
 
 ## Intro
 Welcome to the Inno3DPnPJoint_component_calc jupyter notebook's repository! This notebook was designed to facilitate the calculation of the initial stiffness of the tube compoenents (i.e., face and interaction components) of the Inno3DPnPJoint beam-to-column finite element implemented in OpenSees.
